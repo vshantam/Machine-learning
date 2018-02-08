@@ -112,7 +112,7 @@ if __name__=='__main__':
 	#creating an class object
 	obj=linear()
 	#calling classmethod to load data from csv file		
-	x,y=obj.load_data('')
+	x,y=[10,11,12,13,14,15,16,17],[1,2,3,4,5,6,7,8] # added example for understanding purposes .you can load the data.
 	#rescaling the features.
 	x,y=obj.rescale(x,y)
 	#applying gradiend descent algorithm to optimise the algorithm
