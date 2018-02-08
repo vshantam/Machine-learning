@@ -12,18 +12,15 @@ Supervised learning is the machine learning task of inferring a function from la
 
 1.
 ![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Capture1.PNG)
-
 2.
 ![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Capture2.PNG)
-
 3.
 ![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Capture3.PNG)
-
 4.Output scatter plot           
 ![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Figure_1.png)
-Output plot    
+Output plot                              
 ![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Figure_2.png)
-Histogram plot       
+Histogram plot                  
 ![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Figure_3.png)
 
 
