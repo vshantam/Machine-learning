@@ -13,3 +13,10 @@ Supervised learning is the machine learning task of inferring a function from la
 1.
 ![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Capture1.PNG)
 
+2.
+![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Capture2.PNG)
+
+3.
+![alt tag](https://github.com/vshantam/Machine-learning/blob/master/images/Capture3.PNG)
+
+
