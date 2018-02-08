@@ -10,3 +10,6 @@ Supervised learning is the machine learning task of inferring a function from la
 
 # Regression output screenshots
 
+1.
+![alt tag](/images/Capture_1.png)
+
